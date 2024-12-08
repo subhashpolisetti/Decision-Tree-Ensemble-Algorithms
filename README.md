@@ -19,6 +19,8 @@ This repository contains various notebooks that implement and evaluate machine l
 - **Description**: Implements a decision tree from scratch for classification, using Gini Impurity and Entropy as the criteria for splitting the data.
 - **Key Techniques**: Decision Trees, Gini Impurity, Entropy
 
+-    Decision Tree  Colab Link:  https://github.com/subhashpolisetti/Decision-Tree-Ensemble-Algorithms/blob/main/Decision_Tree_From_Scratch_Gini_Entropy.ipynb
+
 ### 4. **Evaluating Classification Algorithms on the Breast Cancer Dataset**
 - **Description**: Evaluates multiple classification algorithms, including Decision Trees, Random Forests, and AdaBoost, on the Breast Cancer dataset. The models are compared based on accuracy.
 - **Key Techniques**: Classification, Model Evaluation, Breast Cancer Dataset
@@ -31,9 +33,16 @@ This repository contains various notebooks that implement and evaluate machine l
 - **Description**: Applies gradient boosting regression techniques to predict continuous target variables. The notebook focuses on training and tuning models for regression tasks.
 - **Key Techniques**: Gradient Boosting, Regression, Hyperparameter Tuning
 
+- Gradient Boost Regression  - Colab Link: https://github.com/subhashpolisetti/Decision-Tree-Ensemble-Algorithms/blob/main/GradientBoosting_Regression_Techniques.ipynb
+
 ### 7. **Gradient Boosting Ranking Models (XGBoost, LightGBM, CatBoost)**
 - **Description**: Demonstrates ranking models using XGBoost, LightGBM, and CatBoost. The models are trained on synthetic ranking data to predict the relevance of items in ranked lists.
 - **Key Techniques**: Ranking Models, XGBoost, LightGBM, CatBoost
+
+- Gradient Boost Ranking -  Colab Link: https://github.com/subhashpolisetti/Decision-Tree-Ensemble-Algorithms/blob/main/GradientBoostRankingTechniques_XGBoost_LightGBM_CatBoost.ipynb
+
+
+Vedio Explaination Link: https://www.youtube.com/playlist?list=PL6O21IOHvBmf8ABZKBjLhLXlTDBYtKZwx
 
 ## Requirements:
 - Python 3.x
