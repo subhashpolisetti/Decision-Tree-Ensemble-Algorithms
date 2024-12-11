@@ -42,7 +42,7 @@ This repository contains various notebooks that implement and evaluate machine l
 - Gradient Boost Ranking -  Colab Link: https://github.com/subhashpolisetti/Decision-Tree-Ensemble-Algorithms/blob/main/GradientBoostRankingTechniques_XGBoost_LightGBM_CatBoost.ipynb
 
 
-Vedio Explaination Link: https://www.youtube.com/playlist?list=PL6O21IOHvBmf8ABZKBjLhLXlTDBYtKZwx
+Vedio Explaination Link: https://drive.google.com/drive/folders/1LVP6mySsYPQVe5TxjV46ZLOs18aL1YmD?usp=sharing
 
 ## Requirements:
 - Python 3.x
